@@ -186,7 +186,7 @@ div#notebook {
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="1.-Classification-vs-Regression">1. Classification vs Regression<a class="anchor-link" href="#1.-Classification-vs-Regression">&#182;</a></h2><p>Your goal is to identify students who might need early intervention - which type of supervised machine learning problem is this, classification or regression? Why?</p>
-<p>This is a classification type problem - we are trying to identify whether a student will either pass or fail to graduate. This is a discrete outcome scenario, our features are mostly categorical, we are not trying to quantify a relationship between continuous variables. Therefore it is a classification problem.</p>
+<p><em>This is a classification type problem - we are trying to identify whether a student will either pass or fail to graduate. This is a discrete outcome scenario, our features are mostly categorical, we are not trying to quantify a relationship between continuous variables. Therefore it is a classification problem.</em></p>
 
 </div>
 </div>
@@ -204,7 +204,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[1]:</div>
+<div class="prompt input_prompt">In&nbsp;[2]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython2"><pre><span></span><span class="c1"># Import libraries</span>
@@ -219,7 +219,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[2]:</div>
+<div class="prompt input_prompt">In&nbsp;[3]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython2"><pre><span></span><span class="c1"># Read student data</span>
@@ -267,12 +267,12 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[11]:</div>
+<div class="prompt input_prompt">In&nbsp;[4]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython2"><pre><span></span><span class="c1"># TODO: Compute desired values - replace each &#39;?&#39; with an appropriate expression/function call</span>
 <span class="n">n_students</span> <span class="o">=</span> <span class="n">student_data</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
-<span class="n">n_features</span> <span class="o">=</span> <span class="n">student_data</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span>
+<span class="n">n_features</span> <span class="o">=</span> <span class="n">student_data</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">-</span><span class="mi">1</span>
 <span class="n">n_passed</span> <span class="o">=</span> <span class="n">student_data</span><span class="p">[</span><span class="s2">&quot;passed&quot;</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()[</span><span class="s2">&quot;yes&quot;</span><span class="p">]</span>
 <span class="n">n_failed</span> <span class="o">=</span> <span class="n">student_data</span><span class="p">[</span><span class="s2">&quot;passed&quot;</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()[</span><span class="s2">&quot;no&quot;</span><span class="p">]</span>
 <span class="n">grad_rate</span> <span class="o">=</span> <span class="mf">100.0</span><span class="o">*</span><span class="n">n_passed</span> <span class="o">/</span> <span class="n">n_students</span>
@@ -296,7 +296,7 @@ div#notebook {
 <pre>Total number of students: 395
 Number of students who passed: 265
 Number of students who failed: 130
-Number of features: 31
+Number of features: 30
 Graduation rate of the class: 67.09%
 </pre>
 </div>
@@ -311,6 +311,7 @@ Graduation rate of the class: 67.09%
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
+<p><em>The number of failed students is very small compared to the overall dataset. This creates an unbalanced data set, which means there are not enough of one label compared to others which can hinder our ability to predict those labels. It is therefore more important to use k-fold shuffling to artificially expand our training and testing data to a larger apparent quantity, which can help mitigate this problem. Also we must use precision and recall as opposed to pure accuracy to get a better understanding of how our chosen algorithm has better performance over other options.</em></p>
 <h2 id="3.-Preparing-the-Data">3. Preparing the Data<a class="anchor-link" href="#3.-Preparing-the-Data">&#182;</a></h2><p>In this section, we will prepare the data for modeling, training and testing.</p>
 <h3 id="Identify-feature-and-target-columns">Identify feature and target columns<a class="anchor-link" href="#Identify-feature-and-target-columns">&#182;</a></h3><p>It is often the case that the data you obtain contains non-numeric features. This can be a problem, as most machine learning algorithms expect numeric data to perform computations with.</p>
 <p>Let's first separate our data into feature and target columns, and see if any features are non-numeric.<br/>
@@ -321,7 +322,7 @@ Graduation rate of the class: 67.09%
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[12]:</div>
+<div class="prompt input_prompt">In&nbsp;[5]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython2"><pre><span></span><span class="c1"># Extract feature (X) and target (y) columns</span>
@@ -395,7 +396,7 @@ Feature values:-
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[13]:</div>
+<div class="prompt input_prompt">In&nbsp;[6]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython2"><pre><span></span><span class="c1"># Preprocess feature columns</span>
@@ -453,7 +454,7 @@ Feature values:-
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[22]:</div>
+<div class="prompt input_prompt">In&nbsp;[25]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython2"><pre><span></span><span class="c1"># First, decide how many training vs test samples you want</span>
@@ -669,12 +670,7 @@ F1 score for test set: 0.851612903226
     <span class="n">line4</span> <span class="o">+=</span> <span class="s2">&quot;</span><span class="si">%.3f</span><span class="s2">&quot;</span> <span class="o">%</span> <span class="n">result</span><span class="p">[</span><span class="mi">3</span><span class="p">]</span> <span class="o">+</span> <span class="s1">&#39;</span><span class="se">\t</span><span class="s1">&#39;</span>
     <span class="n">line5</span> <span class="o">+=</span> <span class="s2">&quot;</span><span class="si">%.3f</span><span class="s2">&quot;</span> <span class="o">%</span> <span class="n">result</span><span class="p">[</span><span class="mi">4</span><span class="p">]</span> <span class="o">+</span> <span class="s1">&#39;</span><span class="se">\t</span><span class="s1">&#39;</span>
 
-<span class="k">print</span> <span class="n">line0</span>
-<span class="k">print</span> <span class="n">line1</span>
-<span class="k">print</span> <span class="n">line2</span>
-<span class="k">print</span> <span class="n">line3</span>
-<span class="k">print</span> <span class="n">line4</span>
-<span class="k">print</span> <span class="n">line5</span>
+<span class="k">print</span> <span class="n">line</span> <span class="k">for</span> <span class="n">line</span> <span class="ow">in</span> <span class="p">[</span><span class="n">line0</span><span class="p">,</span><span class="n">line1</span><span class="p">,</span><span class="n">line2</span><span class="p">,</span><span class="n">line3</span><span class="p">,</span><span class="n">line4</span><span class="p">,</span><span class="n">line5</span><span class="p">]</span>
 </pre></div>
 
 </div>
@@ -719,9 +715,9 @@ F1 test score		0.745	0.831	0.852	0.750	0.763	0.709	0.833	0.750	0.788
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>SVM has complexity O(n*f), its main advantage is the correction factor C, which allows us to avoid overfitting problems by choosing better tolerance for outliers. SVM should have an easier time dealing with the binary data we have created by splitting the data into Boolean features.</p>
-<p>Decision trees have complexity O(n), its main advantage is that it can produce simple and easy to understand rules that govern student graduation rates. It is also fast and easy to run. However they are susceptible to overfitting, that is they can fit the training data well, but less so with the test data.</p>
-<p>AdaBoost ensembles have complexity O(n*f^2), where f is the number of features. AdaBoost can synthesize many weak learners obeying simple decision rules into a more powerful and accurate high-level classifier. However their execution time increases with the variety of features we have produced, especially by splitting the data into Boolean features.</p>
+<p>SVM has complexity O(nf), its main advantage is the correction factor C, which allows us to avoid overfitting problems by choosing better tolerance for outliers. SVM should have an easier time dealing with the binary data we have created by splitting the data into Boolean features. We chose to explore SVM because of its flexibility both in its dividing shape and its ability to accommodate outliers. Since we are exploring a data set about humans, who don't neatly conform to rules and predictions, having a tunable, flexible algorithm is a huge advantage.</p>
+<p>Decision trees have complexity O(n), its main advantage is that it can produce simple and easy to understand rules that govern student graduation rates. It is also fast and easy to run. However they are susceptible to overfitting, that is they can fit the training data well, but less so with the test data. We chose to explore decision trees because of its potential to translate accuracies and F1 scores into intelligible rules or heuristics. If the output of this exercise is to inform school administrators about what adjustments to apply, it will be helpful to communicate these results clearly.</p>
+<p>AdaBoost ensembles have complexity O(nf^2), where f is the number of features. AdaBoost can synthesize many weak learners obeying simple decision rules into a more powerful and accurate high-level classifier. However their execution time increases with the variety of features we have produced, especially by splitting the data into Boolean features. We chose to explore AdaBoost for its promise to solve all tradeoffs in supervised machine learning. The concept of synthesizing weak learners to produce a strong output is a powerful idea intuited from the wisdom of crowds. We can tune AdaBoost's performance by setting the number of classifiers, and each of these weak classifiers could represent a simple DT-like heuristic that is easily communicable.</p>
 <h2 id="5.-Choosing-the-Best-Model">5. Choosing the Best Model<a class="anchor-link" href="#5.-Choosing-the-Best-Model">&#182;</a></h2><ul>
 <li>Based on the experiments you performed earlier, in 1-2 paragraphs explain to the board of supervisors what single model you chose as the best model. Which model is generally the most appropriate based on the available data, limited resources, cost, and performance?</li>
 </ul>
@@ -786,7 +782,7 @@ F1 test score		0.745	0.831	0.852	0.750	0.763	0.709	0.833	0.750	0.788
 <div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span></span><span class="n">Not</span> <span class="n">sure</span> <span class="n">why</span> <span class="n">grid</span> <span class="n">search</span> <span class="n">best</span> <span class="n">f1</span> <span class="n">score</span> <span class="n">does</span> <span class="ow">not</span> <span class="n">match</span> <span class="n">f1_score</span>
+<div class=" highlight hl-ipython2"><pre><span></span> 
 </pre></div>
 
 </div>
