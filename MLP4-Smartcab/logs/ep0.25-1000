@@ -1,0 +1,3882 @@
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 7
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 8
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 32
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 2.0
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 25
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 9
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 15
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 1.0
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 34
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 25
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 24
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 4
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 10
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 4
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 8
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 16
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 3.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 4
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 10
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 10
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 25
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 23
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 6
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 7.0
+num moves = 26
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 4.0
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 8
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 12
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 11
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 15
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 18
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 9
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 18
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 7.0
+num moves = 26
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 7
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 11
+Minimum move count = 8
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 10.0
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 17
+Minimum move count = 11
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 13
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 12
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 20
+Minimum move count = 8
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 10.0
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 3.0
+Minimum move count = 7
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 9.0
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 18
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 4
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 3
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 4
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 8
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 17
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 12
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 7
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 28
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 16
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 6
+Minimum move count = 10
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 29
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 6
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 12
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 17
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 13
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 5
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 6
+Minimum move count = 6
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 12.0
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 12.0
+num moves = 34
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 21
+Minimum move count = 6
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 6.0
+Minimum move count = 8
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 7.0
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 13
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 19
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 29
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 10
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 20
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 8
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 4
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 16
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 17
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 19
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 13
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 7
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 13
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 25
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 10
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 14
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 7.0
+num moves = 24
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 9
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 18
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 17
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 6.0
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 18
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 5.0
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 16
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 28
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 7
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 17
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 24
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 5
+Minimum move count = 10
+Environment.act(): Primary agent has reached destination!
+Penalties = 7.0
+num moves = 29
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 24
+Minimum move count = 7
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 6.0
+Minimum move count = 10
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 16
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 11
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 17
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 26
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 16
+Minimum move count = 12
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 26
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 14
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 21
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 10
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 12
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 14
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 5
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 17
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 14
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 21
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 22
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 7
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 7
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 11
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 11
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 25
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 21
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 7.0
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 10
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 13
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 21
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 14
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 15
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 11
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 19
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 10
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 13
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 5
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 16
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 9.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 20
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 17
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 12
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 16
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 7
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 10
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 30
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 12
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 23
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 32
+Minimum move count = 6
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 10.0
+Minimum move count = 10
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 21
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 9
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 6
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 12
+Minimum move count = 11
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 31
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 7
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 5
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 20
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 7
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 13
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 17
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 7
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 25
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 16
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 17
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 20
+Minimum move count = 6
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 4.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 15
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 22
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 17
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 6
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 22
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 9
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 19
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 14
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 7
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 20
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 7.0
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 5
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 18
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 11
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 11
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 7.0
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 9
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 8
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 4
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 11
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 6.0
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 24
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 17
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 9
+Minimum move count = 10
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 17
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 12
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 4.0
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 10
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 11
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 11
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 22
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 13
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 19
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 10
+Minimum move count = 11
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 19
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 10
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 13
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 16
+Minimum move count = 10
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 18
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 7.0
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 7.0
+num moves = 16
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 9
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 11
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 4
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 17
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 7
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 22
+Minimum move count = 8
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 10.0
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 9
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 25
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 8
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 8
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 12
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 9
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 26
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 16
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 5
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 32
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 6
+Minimum move count = 6
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 11.0
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 12
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 16
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 21
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 18
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 6
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 10.0
+num moves = 27
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 2
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 7.0
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 18
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 13
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 27
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 19
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 21
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 13
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 21
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 14
+Minimum move count = 8
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 8.0
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 18
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 6
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 6.0
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 17
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 4.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 9
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 10
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 6
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 9.0
+num moves = 36
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 20
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 7.0
+num moves = 15
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 6.0
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 7.0
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 29
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 15
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 22
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 15
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 11
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 20
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 10
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 8
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 11.0
+num moves = 37
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 12
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 5
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 9
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 6
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 7.0
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 10.0
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 5
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 9
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 7.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 14
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 20
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 14
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 26
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 11
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 10
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 15
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 10.0
+num moves = 40
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 13
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 19
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 10
+Minimum move count = 7
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 8.0
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 7
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 19
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 13
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 14
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 16
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 2
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 8
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 33
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 7.0
+num moves = 34
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 9
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 13
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 9.0
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 7
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 9
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 7
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 19
+Minimum move count = 10
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 19
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 6
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 5.0
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 6
+Minimum move count = 6
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 5.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 7.0
+num moves = 21
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 13
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 7.0
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 16
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 8
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 4
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 4
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 7.0
+num moves = 21
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 12
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 12
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 8.0
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 17
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 13
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 21
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 19
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 22
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 24
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 9.0
+num moves = 33
+Minimum move count = 6
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 14.0
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 7.0
+num moves = 33
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 13
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 14
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 8.0
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 12
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 11
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 10
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 6.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 5
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 8
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 8
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 5
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 7.0
+Minimum move count = 12
+Environment.act(): Primary agent has reached destination!
+Penalties = 10.0
+num moves = 31
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 26
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 10
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 9.0
+num moves = 29
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 8.0
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 16
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 13
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 4.0
+Minimum move count = 8
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 11.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 6
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 18
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 9
+Minimum move count = 7
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 12.0
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 18
+Minimum move count = 11
+Environment.act(): Primary agent has reached destination!
+Penalties = 11.0
+num moves = 50
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 4
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 8
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 25
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 16
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 14
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 12
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 16
+Minimum move count = 6
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 11.0
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 7
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 11
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 32
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 21
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 19
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 24
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 7.0
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 16
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 8
+Minimum move count = 6
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 7.0
+Minimum move count = 12
+Environment.act(): Primary agent has reached destination!
+Penalties = 8.0
+num moves = 41
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 11
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 21
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 23
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 17
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 25
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 21
+Minimum move count = 8
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 7.0
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 21
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 12
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 16
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 25
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 8
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 14
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 19
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 8.0
+num moves = 25
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 15
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 30
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 11
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 7
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 18
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 17
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 11
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 6
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 10
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 16
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 23
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 14
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 13
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 7
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 13
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 6
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 5
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 8
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 8
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 20
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 2
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 9
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 10
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 19
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 6.0
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 5.0
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 21
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 11
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 3.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 8
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 17
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 2
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 21
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 21
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 20
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 27
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 5
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 7
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 16
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 5.0
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 7.0
+num moves = 21
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 21
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 10
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 6
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 19
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 19
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 16
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 6
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 17
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 9
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 11
+Minimum move count = 6
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 5.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 11
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 11
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 4
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 14
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 6
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 9
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 16
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 11
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 3.0
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 5.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 16
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 9
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 18
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 5
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 16
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 27
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 7
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 21
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 27
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 15
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 18
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 14
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 4
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 25
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 4
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 18
+Minimum move count = 11
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 13
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 13
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 25
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 19
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 9
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 11
+Minimum move count = 10
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 41
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 12
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 8
+Minimum move count = 9
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 9.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 13
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 4.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 8
+Minimum move count = 8
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 10.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 6
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 12
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 16
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 14
+Minimum move count = 6
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 7.0
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 7
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 7
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 22
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 2
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 18
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 21
+Minimum move count = 6
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 7.0
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 21
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 7.0
+num moves = 15
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 5.0
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 5.0
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 21
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 10
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 22
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 10
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 12
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 9
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 9
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 11
+Minimum move count = 6
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 7.0
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 8.0
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 21
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 11
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 16
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 16
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 7
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 6.0
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 12
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 7
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 12
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 10
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 11
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 5
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 33
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 4
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 21
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 14
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 30
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 10
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 10
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 7.0
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 8.0
+num moves = 32
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 17
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 10
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 14
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 6.0
+Minimum move count = 8
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 12.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 5
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 24
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 8
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 10
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 13
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 9.0
+num moves = 46
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 12
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 16
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 2.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 5
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 15
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 10
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 12
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 7.0
+num moves = 27
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 8.0
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 25
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 18
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 15
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 7
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 29
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 13
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 13
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 17
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 6.0
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 25
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 6
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 27
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 6
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 7
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 5
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 11
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 14
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 9
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 21
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 25
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 8
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 15
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 13
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 19
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 7
+Minimum move count = 10
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 12.0
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 23
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 6
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 12
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 17
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 21
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 8.0
+num moves = 39
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 16
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 5.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 4
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 8.0
+num moves = 26
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 11
+Minimum move count = 10
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 23
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 8
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 5
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 15
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 20
+Minimum move count = 9
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 9.0
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 8
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 9.0
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 11
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 9
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 13
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 12.0
+num moves = 42
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 11
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 14
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 14
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 11
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 8
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 11
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 12
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 10
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 16
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 17
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 5.0
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 3.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 16
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 11
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 17
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 12
+Minimum move count = 7
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 5.0
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 18
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 16
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 16
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 19
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 18
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 5
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 16
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 9
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 31
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 9
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 16
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 17
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 7.0
+num moves = 19
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 7
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 14
+Minimum move count = 7
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 5.0
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 41
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 36
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 6
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 7
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 7
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 9.0
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 22
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 12
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 6
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 12
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 17
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 3.0
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 6.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 9
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 9.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 14
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 11
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 5
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 11
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 19
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 23
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 16
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 13
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 8
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 19
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 17
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 5.0
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 16
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 3
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 29
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 16
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 26
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 9
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 7
+Minimum move count = 10
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 9.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 10
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 6
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 14
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 13
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 17
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 8
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 19
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 26
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 26
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 20
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 12
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 7
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 21
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 11
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 7
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 11
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 19
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 20
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 18
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 17
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 13
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 7.0
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 25
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 21
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 11
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 7.0
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 12
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 14
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 13
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 26
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 12
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 20
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 28
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 7
+Minimum move count = 10
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 9
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 14
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 16
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 20
+Minimum move count = 6
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 5.0
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 21
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 8
+Minimum move count = 10
+Environment.act(): Primary agent has reached destination!
+Penalties = 7.0
+num moves = 29
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 5
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 14.0
+num moves = 33
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 11
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 9.0
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 8
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 17
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 8
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 9
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 14
+Minimum move count = 6
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 5.0
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 7.0
+num moves = 19
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 16
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 7.0
+num moves = 17
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 20
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 22
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 21
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 34
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 13
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 3.0
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 16
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 13
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 11.0
+num moves = 41
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 4
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 12
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 8
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 14
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 19
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 13
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 21
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 12
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 12
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 15
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 16
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 30
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 6
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 6
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 13
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 13
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 31
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 4
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 24
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 10
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 20
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 22
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 11.0
+num moves = 22
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 21
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 10
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 17
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 7.0
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 22
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 5.0
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 29
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 10.0
+num moves = 32
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 10
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 10
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 12
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 7.0
+num moves = 27
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 8
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 7.0
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 7.0
+num moves = 38
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 30
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 11
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 15
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 5
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 15
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 4
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 21
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 9.0
+num moves = 38
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 11
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 4
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 11.0
+num moves = 27
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 18
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 8
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 11
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 15
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 9
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 8.0
+num moves = 25
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 34
+Minimum move count = 10
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 13
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 1
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 17
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 7.0
+num moves = 26
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 9.0
+num moves = 20
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 15
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 21
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 15
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 7
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 4
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 9
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 13
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 8
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 10
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 26
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 13
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 16
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 8
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 14
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 21
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 17
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 8.0
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 12
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 10
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 10
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 8
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 27
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 11
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 16
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 16
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 8
+Minimum move count = 10
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 37
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 8
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 19
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 25
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 15
+Minimum move count = 9
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 11.0
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 17
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 10
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 13
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 18
+Minimum move count = 8
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 8.0
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 6
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 5.0
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 3.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 10
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 24
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 5
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 25
+Minimum move count = 7
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 6.0
+Minimum move count = 11
+Environment.act(): Primary agent has reached destination!
+Penalties = 9.0
+num moves = 39
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 26
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 15
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 18
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 10
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 4
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 15
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 9.0
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 16
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 9
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 29
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 24
+Minimum move count = 10
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 16
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 7
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 11
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 8
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 16
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 14
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 21
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 14
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 4.0
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 7
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 23
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 8
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 14
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 14
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 26
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 8
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 8
+Minimum move count = 6
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 9.0
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 18
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 17
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 7.0
+num moves = 38
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 16
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 16
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 15
+Minimum move count = 10
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 19
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 16
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 16
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 9
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 10
+Minimum move count = 6
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 5.0
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 10
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 25
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 10
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 9
+Minimum move count = 12
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 10.0
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 15
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 19
+Minimum move count = 10
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 16
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 19
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 25
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 11
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 16
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 9
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 17
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 14
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 16
+Minimum move count = 11
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 25
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 21
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 14
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 18
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 21
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 23
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 19
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 4
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 6.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 13
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 14
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 13
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 10
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 18
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 16
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 17
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 12
+Minimum move count = 8
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 10.0
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 10
+Minimum move count = 10
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 12
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 7
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 25
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 8
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 15
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 5
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 14
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 19
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 13
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 5
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 11
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 21
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 11
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 16
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 25
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 11
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 11
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 22
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 8
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 22
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 10
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 17
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 20
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 7
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 22
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 9
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 30
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 12
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 6
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 12
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 9.0
+num moves = 25
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 14
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 4
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 4
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 9.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 10
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 6.0
+num moves = 21
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 7
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 17
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 6
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 11
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 7.0
+num moves = 22
+Minimum move count = 10
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 38
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 7
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 16
+Minimum move count = 6
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 5.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 20
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 7.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 5
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 9.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 4
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 19
+Minimum move count = 4
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 8.0
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 20
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 9
+Minimum move count = 8
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 13
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 10.0
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 11
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 10.0
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 4
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 13
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 5.0
+num moves = 26
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 4.0
+num moves = 19
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 13
+Minimum move count = 5
+Environment.step(): Primary agent ran out of time! Trial aborted.
+Penalties = 6.0
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 0.0
+num moves = 11
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 13
+Minimum move count = 9
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 16
+Minimum move count = 7
+Environment.act(): Primary agent has reached destination!
+Penalties = 3.0
+num moves = 27
+Minimum move count = 5
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 10
+Minimum move count = 6
+Environment.act(): Primary agent has reached destination!
+Penalties = 2.0
+num moves = 21
+Minimum move count = 4
+Environment.act(): Primary agent has reached destination!
+Penalties = 1.0
+num moves = 8
+Minimum
